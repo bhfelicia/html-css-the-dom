@@ -1,8 +1,19 @@
 h1 {
   color: blue;
+  font-size: 70px
 }
+
+p {
+  color: indigo;
+  font-size: 40px;
+}
+
 div {
-  width: 200px;
+  width: 600px;
   height: 400px;
   background-color: yellow;
+}
+
+input {
+  width: 400px;
 }
